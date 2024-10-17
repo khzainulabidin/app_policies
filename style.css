@@ -7,7 +7,7 @@ body {
 }
 
 ul {
-    margin-top: 5%;
+    margin-top: 1%;
 }
 
 a {
@@ -32,5 +32,9 @@ h1 {
 @media screen and (max-width: 900px) {
     body {
         padding: 2% 5%;
+    }
+    
+    ul {
+        margin-top: 5%;
     }
 }
